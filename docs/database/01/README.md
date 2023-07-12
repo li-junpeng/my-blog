@@ -1,5 +1,7 @@
 ### MySQL - Windows系统下修改basedir路径 :id=title
 
+更新时间: {docsify-updated}
+
 今天在Windows server 2012上安装了一个MySQL 5.7, 默认安装位置是在`C:\Program Files\MySQL\MySQL Server 5.7`
 （如果不是的话，使用下面命令查看）
 
