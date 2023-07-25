@@ -1,5 +1,6 @@
 * [Java](/docs/java/)
 * [Web前端](/docs/web/)
   * [Vue3 + Vite4 动态加载组件](/docs/web/01/)
+  * [defineModel is not defined](/docs/web/02/)
 * [数据库](/docs/database/)
     * [MySQL - Windows系统下修改basedir路径](/docs/database/01/)
