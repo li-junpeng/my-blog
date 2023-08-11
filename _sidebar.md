@@ -4,4 +4,6 @@
   * [defineModel is not defined](/docs/web/02/)
   * [搭建monaco-editor官网](/docs/web/03/)
 * [数据库](/docs/database/)
-    * [MySQL - Windows系统下修改basedir路径](/docs/database/01/)
+  * [MySQL - Windows系统下修改basedir路径](/docs/database/01/)
+* [教程](/docs/tutorial/)
+  * [PowerShell 自定义命令别名](/docs/tutorial/01/)
