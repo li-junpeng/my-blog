@@ -7,3 +7,4 @@
   * [MySQL - Windows系统下修改basedir路径](/docs/database/01/)
 * [教程](/docs/tutorial/)
   * [PowerShell 自定义命令别名](/docs/tutorial/01/)
+  * [Linux 配置私钥登录](/docs/tutorial/02/)
